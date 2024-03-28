@@ -18,8 +18,12 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 
 2. Tune the Baseline Trading Algorithm
-
 3. Evaluate a New Machine Learning Classifier
+<img width="730" alt="Screenshot 2024-03-27 at 7 38 02 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/175e307e-d481-49f6-9b54-9aac4d88d39d">
+<img width="727" alt="Screenshot 2024-03-27 at 7 38 08 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/1d98c314-d1f8-49d5-8252-0a9451725303">
+<img width="463" alt="Screenshot 2024-03-27 at 7 38 12 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/7726d4a8-cb67-44b4-9afa-af1b26063869">
+<img width="675" alt="Screenshot 2024-03-27 at 7 38 16 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/e36c98d4-b91d-4e6b-898b-31375fd165bf">
+
 
 4. Create an Evaluation Report
 * Conclusion
