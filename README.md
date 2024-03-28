@@ -15,6 +15,11 @@ Use the starter code file to complete the steps that the instructions outline. T
 3. Evaluate a New Machine Learning Classifier
 
 4. Create an Evaluation Report
+   -Conclusion
 
 ## Conclusion:
 In general making a decision about which strategy to implement is highly difficult due to the many factors and variables surrounding the decision. For this case the first model did a pretty good job at predicting an actual trend. However, when we tuned the based algorithim the classification report shows that its predictability is much better. Then again it could be likely that the first model mimics the second model so we would have to run probably 3 more models to make sure my prediction is correct that the first model is the best choice.
+
+## Resources:
+### Tutor Meetings External Resources:
+Edward R. Website: https://www.edwardrees.info Sunday 3/24/2024
