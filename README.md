@@ -12,12 +12,12 @@ Use the starter code file to complete the steps that the instructions outline. T
 <img width="733" alt="Screenshot 2024-03-27 at 7 18 14 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/a9db95ed-e83c-485a-af38-ba3d251c7048">
 <img width="554" alt="Screenshot 2024-03-27 at 7 18 17 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/11202e58-a89c-4bd5-87a4-612f4e836eb4">
 
-<img width="645" alt="Screenshot 2024-03-27 at 7 18 32 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/659a1ba1-76f8-4be9-8a36-8643b61e2a6c">
+2. Tune the Baseline Trading Algorithm
+
+   <img width="645" alt="Screenshot 2024-03-27 at 7 18 32 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/659a1ba1-76f8-4be9-8a36-8643b61e2a6c">
 <img width="467" alt="Screenshot 2024-03-27 at 7 18 38 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/a1a42eb3-ff4f-4d45-b391-c6c3ed1037ad">
 <img width="953" alt="Screenshot 2024-03-27 at 7 18 45 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/06960691-90ee-4d61-a489-a839908322a1">
 
-
-2. Tune the Baseline Trading Algorithm
 3. Evaluate a New Machine Learning Classifier
 <img width="730" alt="Screenshot 2024-03-27 at 7 38 02 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/175e307e-d481-49f6-9b54-9aac4d88d39d">
 <img width="727" alt="Screenshot 2024-03-27 at 7 38 08 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_14/assets/152752672/1d98c314-d1f8-49d5-8252-0a9451725303">
